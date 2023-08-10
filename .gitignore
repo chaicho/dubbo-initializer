@@ -2,8 +2,10 @@ initializer-page/node/
 initializer-page/node_modules/
 initializer-page/analysis/
 initializer-page/target/
-
+initializer-page/public/*.js*
 initializer-generator/target/
+
+*.log 
 
 node_modules/
 
